@@ -1,9 +1,9 @@
+## Running locally
 first run 
 
-npm start
+    npm start
 
+On another console run (database)
 
-then on another console run 
+    npx json-server --watch data/db.json --port 8000
 
-
-npx json-server --watch data/db.json --port 8000
