@@ -1,0 +1,27 @@
+{
+  "blogs": [
+    {
+      "title": "Smati mdewed",
+      "image": "https://res.cloudinary.com/da98bqdyn/image/upload/v1626474188/foto/w8bo6erhmevjshfglokl.jpg",
+      "body": "M3a tipo lb7er",
+      "author": "crocodil",
+      "category": "Pets",
+      "id": 1
+    },
+    {
+      "title": "dsdsd",
+      "image": "https://res.cloudinary.com/da98bqdyn/image/upload/v1626584268/foto/nj9sozgvvhgs0gkqednl.png",
+      "body": "dsdsds",
+      "author": "dsds",
+      "category": "Pets",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "comment": "samichii",
+      "pub": 1,
+      "id": 1
+    }
+  ]
+}
