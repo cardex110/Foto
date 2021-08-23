@@ -3,9 +3,9 @@
 A react website for people passionate about photography. They can share their posts and comment on them.
 
 ## Screenshots
-![Home](assets/Home.png)
-![Blog](assets/BlogDetail.png)
-![Upload](assets/Upload.png)
+![Home](assets/Home.PNG)
+![Blog](assets/BlogDetail.PNG)
+![Upload](assets/Upload.PNG)
 
 ## Running locally
 first run 
