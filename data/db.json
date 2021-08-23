@@ -7,6 +7,30 @@
       "author": "James",
       "category": "Pets",
       "id": 1
+    },
+    {
+      "title": "My trip",
+      "image": "https://res.cloudinary.com/da98bqdyn/image/upload/v1629720882/foto/h5ihnub8kslcnoaycg04.jpg",
+      "body": "Norway",
+      "author": "Amine",
+      "category": "Travel",
+      "id": 2
+    },
+    {
+      "title": "Healthy food",
+      "image": "https://res.cloudinary.com/da98bqdyn/image/upload/v1629720907/foto/lf7zdlykioevxxpk2l8d.jpg",
+      "body": "Vegetables",
+      "author": "Kevin",
+      "category": "Food",
+      "id": 4
+    },
+    {
+      "title": "Trip to Norway",
+      "image": "https://res.cloudinary.com/da98bqdyn/image/upload/v1629721301/foto/ylaho4qcym0rhtvmbcwo.jpg",
+      "body": "My winter trip",
+      "author": "Jonathan",
+      "category": "Travel",
+      "id": 5
     }
   ],
   "comments": [

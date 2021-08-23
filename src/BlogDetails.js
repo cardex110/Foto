@@ -39,7 +39,7 @@ const BlogDetails = () => {
       { blog && (
         <article>
           <h2>{ blog.title }</h2>
-          <h6>Written by { blog.author }</h6>
+          <h6>Photo by { blog.author }</h6>
           <img src={blog.image} style={{ width: '300px' }} /><br/><br/><br/>
           <h6> Description : {blog.body}</h6><br/>
           <h6> Category : {blog.category}</h6><br/><br/><br/>
